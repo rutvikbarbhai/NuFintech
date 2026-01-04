@@ -35,7 +35,7 @@ Three-stage feature reduction process applied to prevent data leakage and optimi
 
 
 
-## 🌳 MODULE 2: MODEL TRAINING (DECISION TREE CLUSTERING)
+## <img src="https://github.com/user-attachments/assets/8f09f616-c687-48a1-8a30-76dffda656b9" width="28" style="position: relative; top: 3px;"/> MODULE 2: MODEL TRAINING (DECISION TREE CLUSTERING)
 
 ### <img src="https://github.com/user-attachments/assets/6672ee8c-15ed-4fb5-9cd5-63c04ac747c1" height="20px" style="vertical-align:bottom;"> Working:
 Trained decision tree classifier on **50 optimized features** using training data only with hyperparameters:  
