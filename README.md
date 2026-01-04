@@ -1,4 +1,4 @@
-# 🚀 FEATURE ENGINEERING, MODELING & PATTERN DISCOVERY PIPELINE
+# <img src="https://github.com/user-attachments/assets/660efd96-ca6c-47f7-b98f-42cb866e241f" width="40" style="vertical-align: text-bottom;"/> Decision Tree–Based Trade Pattern Mining Pipeline
 
 
 ## <img src="https://github.com/user-attachments/assets/f03f321f-8340-452b-b82a-33f487bb52a4" width="28" style="vertical-align: text-bottom;"/> MODULE 1: FEATURE ENGINEERING & SELECTION
