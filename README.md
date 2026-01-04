@@ -13,7 +13,7 @@ Four-stage feature reduction process applied to prevent data leakage and optimiz
 
 ### 📦 Output Files:
 
-###  <img src="https://github.com/user-attachments/assets/f3dcee8e-e008-457a-97fb-d3848b425713" height="20px" style="vertical-align:text-bottom;"> Module 1.1 (Feature Cleanup Analysis):
+###  <img src="https://github.com/user-attachments/assets/f3dcee8e-e008-457a-97fb-d3848b425713" height="20px" style="vertical-align:text-bottom;"> Module 1.1a (Feature Cleanup Analysis):
 - `features_to_drop.txt`  – List of redundant features identified for removal.  
 - `cleaned_features.txt`  – Initial cleaned feature list after redundancy removal.  
 - `feature_analysis_report.json`  – Detailed redundancy analysis with correlation and variance statistics.  
