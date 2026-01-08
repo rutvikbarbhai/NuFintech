@@ -1,5 +1,14 @@
 # <img src="https://github.com/user-attachments/assets/660efd96-ca6c-47f7-b98f-42cb866e241f" width="40" style="vertical-align: text-bottom;"/> Decision Tree–Based Trade Pattern Mining Pipeline
 
+## <img src="https://github.com/user-attachments/assets/dcdcffb4-c4e2-40ee-84cc-aca8612d257e" width="30px">Summary
+
+This repository implements an end-to-end quantitative machine learning pipeline developed during the Xcitium–NuFintech Internship. 
+The project focuses on transforming raw financial features into interpretable, statistically validated, and production-ready trading patterns using leakage-safe feature engineering, decision tree–based clustering, and rigorous multi-stage validation. The core philosophy of this project is robustness over complexity — prioritizing explainability, out-of-sample reliability, and temporal stability rather than black-box performance.
+
+### The pipeline systematically reduces:
+```bash
+190 raw features → 81 engineered features → 50 optimized features → 195 clusters → 42 actionable patterns → 16 production-ready 
+```
 
 ## <img src="https://github.com/user-attachments/assets/f03f321f-8340-452b-b82a-33f487bb52a4" width="28" style="vertical-align: text-bottom;"/> MODULE 1: FEATURE ENGINEERING & SELECTION
 
