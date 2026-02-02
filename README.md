@@ -2,7 +2,7 @@
 
 ## <img src="https://github.com/user-attachments/assets/dcdcffb4-c4e2-40ee-84cc-aca8612d257e" width="30px">Summary
 
-This repository implements an end-to-end quantitative machine learning pipeline developed during the Xcitium–NuFintech Internship. 
+This repository implements an end-to-end quantitative machine learning pipeline developed during the Xcitium–NuFintech (Formerly Comodo Group) Internship. 
 The project focuses on transforming raw financial features into interpretable, statistically validated, and production-ready trading patterns using leakage-safe feature engineering, decision tree–based clustering, and rigorous multi-stage validation. The core philosophy of this project is robustness over complexity — prioritizing explainability, out-of-sample reliability, and temporal stability rather than black-box performance.
 
 
